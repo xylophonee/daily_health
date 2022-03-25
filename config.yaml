@@ -1,0 +1,8 @@
+users:
+  #address
+  address: '****'
+  #username 学号或者工号
+  username: '*****'
+  #password 密码
+  password: '********'
+  email:    '********@qq.com'
