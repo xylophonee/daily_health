@@ -3,6 +3,7 @@
 # 如何使用？
 
 ```bash
+# 修改config.yaml 和 main.go 
 cd daily_health
 go build -o main
 ./main
